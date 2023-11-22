@@ -1,4 +1,3 @@
-# Pom.xml
+# This repo content sample pom.xml
 
-This repo for sample pom.xml
 
